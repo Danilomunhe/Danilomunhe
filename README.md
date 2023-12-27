@@ -15,6 +15,7 @@
   <img align="center" alt="JS" height="30" width="80" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <img align="center" alt="PHP" height="30" width="80" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
    </div> 
+   
   ### Entre em contato comigo por:
   <div> 
  

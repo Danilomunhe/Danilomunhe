@@ -1,11 +1,5 @@
 ### Olá! Eu sou o Danilo👋
 
-<div align="center">
-  <a href="https://github.com/Danilomunhe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilomunhe&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilomunhe&layout=compact&langs_count=7&theme=shades-of-purple"/>
-</div>
-
   ### Habilidades:
    <div style="display:flex"> 
    <img align="center" alt="HTML" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
